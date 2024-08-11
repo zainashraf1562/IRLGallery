@@ -2,7 +2,7 @@
 //  DatabaseManager.swift
 //  IRLGallery
 //
-//  Created by Noman Ashraf on 7/7/24.
+//  Created by Zain Ashraf on 7/7/24.
 //
 import Firebase
 import FirebaseFirestore
