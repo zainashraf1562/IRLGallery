@@ -14,5 +14,5 @@
 # Upcoming 
 - [ ] User can make posts private
 - [ ] User can view post activity map
-- [ ] Customize visionOs experience
+- [ ] Customize visionOS experience
 - [ ] Add watchOS intergration
