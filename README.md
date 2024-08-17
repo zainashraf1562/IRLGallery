@@ -9,5 +9,5 @@
 - [x]  User can view his own post unrestricted.
 
 # Upcoming 
-- [] User can private post
-- [] User can view map of post activity
+- [ ] User can private post
+- [ ] User can view map of post activity
